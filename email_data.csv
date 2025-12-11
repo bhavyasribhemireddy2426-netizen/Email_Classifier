@@ -1,0 +1,103 @@
+email_text,category,urgency
+"My order hasn't arrived and it's been 2 weeks.",complaint,high
+"Please send me the invoice for last month's order.",request,medium
+"Excellent service, I am very satisfied.",feedback,low
+"Claim your free iPad now by clicking here!",spam,low
+"The item I received is broken, I need a replacement.",complaint,high
+"Can you update my billing address for my subscription?",request,medium
+"Your app is amazing, thank you for the great update!",feedback,low
+"You've been selected for a free gift card!",spam,low
+"My payment was charged twice, please help.",complaint,high
+"Help me set up my account, I'm stuck.",request,medium
+"Thank you for resolving my complaint so quickly.",feedback,low
+"Exclusive deal: Buy one, get one free.",spam,low
+"The product I received is not what I ordered.",complaint,high
+"I want to change my subscription plan.",request,medium
+"Your service is fantastic, I'm impressed!",feedback,low
+"My delivery was late and the package was damaged.",complaint,high
+"I need to update my payment details.",request,medium
+"Great support, my issue was solved immediately.",feedback,low
+"Click here to claim your $500 reward!",spam,low
+"The item I received is defective, I want a refund.",complaint,high
+"Can you provide the tracking number for my order?",request,medium
+"Thank you for your prompt assistance.",feedback,low
+"You won a free vacation trip!",spam,low
+"Please cancel my last order immediately.",request,medium
+"My complaint about delayed delivery was not handled.",complaint,high
+"Your team provided excellent customer support.",feedback,low
+"Limited time offer! Claim now!",spam,low
+"The product description was misleading.",complaint,medium
+"Need help updating my account information.",request,medium
+"Your new feature is fantastic!",feedback,low
+"I never received my confirmation email.",complaint,high
+"Please escalate my unresolved complaint.",complaint,high
+"Win $1000 instantly, click here!",spam,low
+"I need a replacement for my defective product.",request,medium
+"Thanks for your quick response.",feedback,low
+"My order is missing items.",complaint,high
+"Please resend my last invoice.",request,medium
+"I'm happy with the fast service.",feedback,low
+"Get your exclusive deal now!",spam,low
+"The delivery was delayed without any notice.",complaint,medium
+"Assist me with changing my account settings.",request,medium
+"Your app update works perfectly!",feedback,low
+"My recent order arrived damaged.",complaint,high
+"Please provide an update on my support ticket.",request,medium
+"I'm very impressed with the support team.",feedback,low
+"Congratulations! Claim your free gift card.",spam,low
+"My account was charged incorrectly.",complaint,high
+"Help me modify my subscription plan.",request,medium
+"Fantastic experience, very happy with your service.",feedback,low
+"Click here to get your free phone!",spam,low
+"My refund hasn't been processed yet.",complaint,high
+"Please confirm my new shipping address.",request,medium
+"I really appreciate the quick support from your team.",feedback,low
+"Exclusive bonus: Free membership for 1 year!",spam,low
+"The product I received was damaged.",complaint,high
+"I need assistance with updating my payment method.",request,medium
+"Your service exceeded my expectations.",feedback,low
+"Claim your prize now!",spam,low
+"My order tracking number is incorrect.",complaint,high
+"Please cancel my subscription immediately.",request,medium
+"Thank you for the excellent customer support.",feedback,low
+"Limited offer: Win a brand new car!",spam,low
+"The delivery was incomplete.",complaint,high
+"I need help changing my account password.",request,medium
+"The new update works really well, great job!",feedback,low
+"Get your free gift today!",spam,low
+"My recent purchase was faulty.",complaint,high
+"Please provide me with the status of my order.",request,medium
+"I am satisfied with your prompt assistance.",feedback,low
+"Claim your free vacation package now!",spam,low
+"The product I received was not as advertised.",complaint,high
+"Can you assist me with modifying my subscription?",request,medium
+"Your service team is very helpful.",feedback,low
+"Win big prizes instantly!",spam,low
+"My order arrived late.",complaint,medium
+"I want to update my delivery address.",request,medium
+"I'm very happy with the new features in your app.",feedback,low
+"Exclusive offer: Free smartphone for first 100 users!",spam,low
+"My account was billed incorrectly.",complaint,high
+"Please provide a refund for my defective product.",request,medium
+"Great experience with your support team.",feedback,low
+"Click here for a free gift card!",spam,low
+"My delivery package was lost.",complaint,high
+"I need help updating my personal information.",request,medium
+"Thanks for the prompt resolution.",feedback,low
+"Get your free iPhone now!",spam,low
+"The product I received is missing parts.",complaint,high
+"Please resend the confirmation email.",request,medium
+"Excellent service, very pleased.",feedback,low
+"You won a free cash prize!",spam,low
+"My subscription renewal failed.",complaint,high
+"Assist me with changing my billing info.",request,medium
+"I'm happy with the support received.",feedback,low
+"Limited time: Claim your free reward!",spam,low
+"My order was cancelled without notice.",complaint,medium
+"I need to modify my delivery schedule.",request,medium
+"Thank you for resolving my complaint efficiently.",feedback,low
+"Win a free laptop now!",spam,low
+"The package I received is damaged.",complaint,high
+"Can you provide a replacement for my order?",request,medium
+"I'm very satisfied with your prompt assistance.",feedback,low
+"Click to claim your exclusive prize!",spam,low
