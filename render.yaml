@@ -4,4 +4,4 @@ services:
     env: python
     plan: free
     buildCommand: pip install -r requirements.txt
-    startCommand: streamlit run dashboard.py --server.port=$PORT --server.address=0.0.0.0
+    startCommand: streamlit run Dashboard.py --server.port=$PORT --server.address=0.0.0.0
