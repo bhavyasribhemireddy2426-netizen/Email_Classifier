@@ -3,7 +3,6 @@ pandas
 numpy
 scikit-learn
 matplotlib
-re
 nltk
 torch
 string
